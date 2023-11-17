@@ -1,0 +1,6 @@
+[submodule "PalestineMartyrsKinshipUI"]
+	path = AngularUI
+	url = https://github.com/anazhmetdin/PalestineMartyrsKinshipUI.git
+[submodule "PalestineMartyrsKinshipAPI"]
+	path = DjangoApp
+	url = https://github.com/anazhmetdin/PalestineMartyrsKinshipAPI.git
